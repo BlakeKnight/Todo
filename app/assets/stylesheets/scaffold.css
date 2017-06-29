@@ -8,6 +8,8 @@ body, p, ol, ul, td {
   font-size: 13px;
   line-height: 18px;
   margin: 33px;
+  text-align: center;
+  background-color: pink;
 }
 
 pre {
